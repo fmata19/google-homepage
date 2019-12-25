@@ -1,0 +1,16 @@
+From The Odin Project's curriculum
+
+Project 1: Use HTML/CSS to Reconstruct the Googhe Homapage
+
+For this project I was taked to recreate the Google  homepage. The actual functionality wasn't needed (ie the search box didn't need to work), but the overall look had to be the same.
+
+Applied Knowledge:
+-Div Manipulation
+-Image utilization
+-Form Building
+-Class & ID Targetting
+
+Attained Skills
+-Git Workflow
+-HTML 5/CSS
+-Github
